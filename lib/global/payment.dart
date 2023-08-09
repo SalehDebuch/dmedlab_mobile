@@ -1,0 +1,2 @@
+const String STRIPE_PUBLISHABLE_KEY =
+    'pk_test_51MUsnQKeAaZWbgGOqf53aPu8VQrma3SdNs0kDJNz4BGuK1eGBuTDkcgLKXdvwWe3FZHhzcfu7ofuXPHsrtkT8OHs00T3RZWtHH';
